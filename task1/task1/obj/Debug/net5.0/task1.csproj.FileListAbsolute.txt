@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/bin/Debug/net5.0/task1.deps.json
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/bin/Debug/net5.0/task1.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/bin/Debug/net5.0/task1.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/bin/Debug/net5.0/task1.dll
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/bin/Debug/net5.0/ref/task1.dll
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/bin/Debug/net5.0/task1.pdb
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.dll
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/ref/task1.dll
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.pdb
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task1/task1/obj/Debug/net5.0/task1.genruntimeconfig.cache

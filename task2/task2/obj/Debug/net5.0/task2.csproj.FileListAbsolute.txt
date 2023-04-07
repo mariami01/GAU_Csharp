@@ -1,0 +1,5 @@
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task2/task2/obj/Debug/net5.0/task2.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task2/task2/obj/Debug/net5.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task2/task2/obj/Debug/net5.0/task2.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task2/task2/obj/Debug/net5.0/task2.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/UNI(Senior)/GAU_C#/task2/task2/obj/Debug/net5.0/task2.csproj.CoreCompileInputs.cache
