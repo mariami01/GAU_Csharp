@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/bin/Debug/net5.0/Task3.deps.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/bin/Debug/net5.0/Task3.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/bin/Debug/net5.0/Task3.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/bin/Debug/net5.0/Task3.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/bin/Debug/net5.0/ref/Task3.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/bin/Debug/net5.0/Task3.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.csproj.AssemblyReference.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/ref/Task3.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework4/Task3/Task3/obj/Debug/net5.0/Task3.genruntimeconfig.cache

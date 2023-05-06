@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/bin/Debug/net5.0/MidTerm.deps.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/bin/Debug/net5.0/MidTerm.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/bin/Debug/net5.0/MidTerm.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/bin/Debug/net5.0/MidTerm.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/bin/Debug/net5.0/ref/MidTerm.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/bin/Debug/net5.0/MidTerm.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/ref/MidTerm.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/MidTerm/MidTerm/obj/Debug/net5.0/MidTerm.genruntimeconfig.cache

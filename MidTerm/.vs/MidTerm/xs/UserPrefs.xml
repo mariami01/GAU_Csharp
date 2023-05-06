@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BFAE1371-9571-4473-B823-FB91B45DC7CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidTerm/SoftwareEngineering.cs">
+    <Files>
+      <File FileName="MidTerm/Program.cs" Line="45" Column="1" />
+      <File FileName="MidTerm/SoftwareEngineering.cs" Line="32" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidTerm" expanded="True">
+            <Node name="MidTerm" expanded="True">
+              <Node name="SoftwareEngineering.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MidTerm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

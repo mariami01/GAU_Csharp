@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/bin/Debug/net5.0/Presentation.deps.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/bin/Debug/net5.0/Presentation.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/bin/Debug/net5.0/Presentation.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/bin/Debug/net5.0/Presentation.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/bin/Debug/net5.0/ref/Presentation.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/bin/Debug/net5.0/Presentation.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.csprojAssemblyReference.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/ref/Presentation.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Presentation/Presentation/obj/Debug/net5.0/Presentation.genruntimeconfig.cache
