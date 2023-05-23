@@ -1,13 +1,15 @@
-﻿<Properties StartupConfiguration="{0CE00090-DBFA-46AC-8631-6602D75729A4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Classwork1/Program.cs">
+﻿<Properties StartupConfiguration="{8D2878E9-4C23-41E4-A78F-669E039B85A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework9/Program.cs">
     <Files>
-      <File FileName="Classwork1/Program.cs" Line="34" Column="18" />
+      <File FileName="Homework9/Program.cs" Line="24" Column="49" />
+      <File FileName="Homework9/students.xml" Line="2" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Classwork1" expanded="True">
-            <Node name="Classwork1" expanded="True">
+          <Node name="Homework9" expanded="True">
+            <Node name="Homework9" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +19,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Classwork1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

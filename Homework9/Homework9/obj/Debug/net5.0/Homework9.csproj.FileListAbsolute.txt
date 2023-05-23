@@ -1,0 +1,15 @@
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.csproj.AssemblyReference.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.AssemblyInfoInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.AssemblyInfo.cs
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.csproj.CoreCompileInputs.cache
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/bin/Debug/net5.0/Homework9.deps.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/bin/Debug/net5.0/Homework9.runtimeconfig.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/bin/Debug/net5.0/Homework9.runtimeconfig.dev.json
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/bin/Debug/net5.0/Homework9.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/bin/Debug/net5.0/ref/Homework9.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/bin/Debug/net5.0/Homework9.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/ref/Homework9.dll
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.pdb
+/Users/mariamzenaishvili/Documents/UNI_Senior/GAU_Csharp/Homework9/Homework9/obj/Debug/net5.0/Homework9.genruntimeconfig.cache
