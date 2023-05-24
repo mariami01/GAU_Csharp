@@ -1,28 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Students>
-  <Student Id="1">
-    <Name>John Doe</Name>
+  <Student>
+    <Id>1</Id>
+    <Name>Jujuna Ninidze</Name>
     <Age>20</Age>
     <Major>Computer Science</Major>
   </Student>
-  <Student Id="2">
-    <Name>Jane Smith</Name>
+  <Student>
+    <Id>2</Id>
+    <Name>Barbare Kapanadze</Name>
     <Age>22</Age>
     <Major>Mathematics</Major>
   </Student>
-  <Student Id="3">
-    <Name>Mark Johnson</Name>
+  <Student>
+    <Id>3</Id>
+    <Name>Sandro Jajanidze</Name>
     <Age>21</Age>
     <Major>Physics</Major>
   </Student>
-  <Student Id="4">
-    <Name>Sarah Williams</Name>
+  <Student>
+    <Id>4</Id>
+    <Name>Mariam Kapanadze</Name>
     <Age>19</Age>
-    <Major>English Literature</Major>
+    <Major>Civil Engineering</Major>
   </Student>
-  <Student Id="5">
-    <Name>David Lee</Name>
+  <Student>
+    <Id>5</Id>
+    <Name>David Leonidze</Name>
     <Age>20</Age>
-    <Major>History</Major>
+    <Major>Computer Science</Major>
   </Student>
 </Students>

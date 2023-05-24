@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{8D2878E9-4C23-41E4-A78F-669E039B85A1}|Default">
   <MonoDevelop.Ide.ItemProperties.Homework9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Homework9/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework9/bin/Debug/net5.0/students.xml">
     <Files>
-      <File FileName="Homework9/Program.cs" Line="24" Column="49" />
-      <File FileName="Homework9/students.xml" Line="2" Column="1" />
+      <File FileName="Homework9/Program.cs" Line="173" Column="10" />
+      <File FileName="Homework9/bin/Debug/net5.0/students.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Homework9" expanded="True">
             <Node name="Homework9" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
